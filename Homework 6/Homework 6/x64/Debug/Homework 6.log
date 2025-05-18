@@ -1,0 +1,4 @@
+﻿  Homework 6.cpp
+H:\My Drive\Personal\Education\Troy MS Computer Science\Coursework\CS2250\Homework\Homework 6\Homework 6.cpp(14,69): warning C4101: 'lowestRainfall': unreferenced local variable
+H:\My Drive\Personal\Education\Troy MS Computer Science\Coursework\CS2250\Homework\Homework 6\Homework 6.cpp(14,52): warning C4101: 'highestRainfall': unreferenced local variable
+  Homework 6.vcxproj -> H:\My Drive\Personal\Education\Troy MS Computer Science\Coursework\CS2250\Homework\Homework 6\x64\Debug\Homework 6.exe

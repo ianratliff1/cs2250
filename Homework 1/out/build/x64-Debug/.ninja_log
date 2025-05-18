@@ -1,0 +1,9 @@
+# ninja log v6
+16	365	7647268512030000	build.ninja	2b6391dcbcdcd50d
+17	367	7647268512030000	build.ninja	2b6391dcbcdcd50d
+24	191	7647268513980000	CMakeFiles/Homework1.dir/main.cpp.obj.ddi	e132a3baa4ba80fb
+197	271	7647268516370000	CMakeFiles/Homework1.dir/CXX.dd	74080fd960452320
+197	271	7647268516370000	G:/My Drive/Personal/Education/Troy MS Computer Science/Coursework/CS2250/Homework/Homework 1/out/build/x64-Debug/CMakeFiles/Homework1.dir/CXXModules.json	74080fd960452320
+197	271	7647268516370000	CMakeFiles/Homework1.dir/main.cpp.obj.modmap	74080fd960452320
+282	1879	7647268516570000	CMakeFiles/Homework1.dir/main.cpp.obj	3a0609b6edbac9c7
+1881	3101	7647268532560000	Homework1.exe	a75cf43a7c76c4d5
